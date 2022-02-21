@@ -1,0 +1,45 @@
+// this is the custom file just for the stuff that's changed 
+// all the other css files are insdide wowchemy hugo modules
+// you can find them on their GitHub
+
+.article-style, .pub-abstract {
+	text-align: justify;
+}
+
+.copyright-license-text {
+	padding-bottom: 1em;
+}
+
+.btn-primary {
+	margin-bottom: 0.5em;
+}
+
+.portrait-title h2 {
+	// name bellow the profile picture
+    font-size: 1.5em;
+}
+
+.portrait-title h3 {
+	// other text bellow the name
+    font-size: 1rem;
+}
+
+h1 {
+  font-size: 2rem;
+}
+
+html { 
+	// this sets up the size of the rem, was 21px
+    // font-size: 21px; 
+    font-size: 20px; 
+} 
+
+h1.mb-0 {
+	// News aligned to the left
+	text-align: left;
+}
+
+.wg-blank {
+	// padding for News
+	padding: 30px 0;
+}

@@ -1,0 +1,22 @@
+module github.com/wowchemy/starter-hugo-academic
+
+go 1.15
+
+
+replace github.com/wowchemy/wowchemy-hugo-modules/wowchemy/v5 => ./wowchemy
+replace github.com/wowchemy/wowchemy-hugo-modules/wowchemy-cms/v5 => ./wowchemy-cms
+
+
+
+require	github.com/wowchemy/wowchemy-hugo-modules/wowchemy-cms/v5 v5.0.0-20220214212254-70806414437a // indirect
+require	github.com/wowchemy/wowchemy-hugo-modules/wowchemy/v5 v5.0.0-20220214212254-70806414437a // indirect
+
+
+module github.com/wowchemy/starter-hugo-academic
+
+go 1.15
+
+require (
+	github.com/wowchemy/wowchemy-hugo-modules/wowchemy-cms/v5 v5.0.0-20220214212254-70806414437a // indirect
+	github.com/wowchemy/wowchemy-hugo-modules/wowchemy/v5 v5.0.0-20220214212254-70806414437a // indirect
+)
