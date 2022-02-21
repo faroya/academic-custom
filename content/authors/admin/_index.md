@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Farouk Yahaya, PhD
+title: Farouk Yahaya
 
 # Is this the primary user of the site?
 superuser: true
