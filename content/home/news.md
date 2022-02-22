@@ -1,14 +1,11 @@
 ---
 widget: blank
+widget_id: cc
 headless: true
-
-# ... Put Your Section Options Here (title etc.) ...
+weight: 80
 title: News
-subtitle:
-weight: 80  # section position on page
+subtitle: null
 design:
-  # Choose how many columns the section has. Valid values: 1 or 2.
-  columns: '1'
+  columns: "1"
 ---
-
-Will be attending the **2022 ICASSP** conference in Belgium.
+No news yet. Come back later.
