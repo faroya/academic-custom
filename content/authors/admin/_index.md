@@ -23,8 +23,8 @@ social:
     icon_pack: fab
     link: https://www.researchgate.net/profile/Farouk-Yahaya
 organizations:
-  - name: Université du Littoral Côte d'Opale
-    url: https://www.univ-littoral.fr/
+  - name: Research Center INRIA Bordeaux - South West
+    url: https://www.inria.fr/fr/centre-inria-de-luniversite-de-bordeaux
 education:
   courses:
     - course: PhD in Signal Processing
