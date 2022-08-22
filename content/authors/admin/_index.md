@@ -41,7 +41,7 @@ highlight_name: true
 title: Farouk Yahaya, PhD
 email: ""
 ---
-Dr. Farouk Yahaya’s research interests include matrix factorization/completion, low-rank approximations, random projections and sampling, sensor calibration, big data.
+Dr. Farouk Yahaya’s research interests include matrix factorization, glottal inverse filtering, source separation, low-rank approximations, and sensor calibration.
 
 He received both his B.Sc. and M.Sc. degrees, in Communications and Network Security and Information Science respectively in 2010 and 2014 from the University of Information Science & Technology, Ohrid North Macedonia. He later obtained his Phd in Signal Processing from the Université du Littoral Côte d’Opale, Calais, France in September 2021.
 
