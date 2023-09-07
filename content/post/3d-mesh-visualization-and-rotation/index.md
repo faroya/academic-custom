@@ -7,7 +7,7 @@ summary: This project uses the Open3D library to visualize and manipulate 3D
   format, facilitating the detailed analysis or presentation of 3D models from
   various angles.
 draft: false
-featured: true
+featured: false
 image:
   filename: frame_000.png
   focal_point: ""
