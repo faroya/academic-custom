@@ -10,7 +10,7 @@ draft: false
 featured: true
 image:
   filename: frame_000.png
-  focal_point: Smart
+  focal_point: RIGHT
   preview_only: false
 ---
  
