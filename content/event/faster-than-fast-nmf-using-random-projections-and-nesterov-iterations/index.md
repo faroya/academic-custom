@@ -19,5 +19,5 @@ featured: false
 image:
   filename: itwist_2018.jpg
   focal_point: Smart
-  preview_only: false
+  preview_only: true
 ---
