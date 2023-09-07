@@ -9,8 +9,8 @@ summary: This project uses the Open3D library to visualize and manipulate 3D
 draft: false
 featured: false
 image:
-  filename: rab.png
-  focal_point: ""
+  filename: maxresdefault.jpg
+  focal_point: Right
   preview_only: false
 ---
  
