@@ -10,7 +10,7 @@ draft: false
 featured: true
 image:
   filename: frame_000.png
-  focal_point: RIGHT
+  focal_point: ""
   preview_only: false
 ---
  
