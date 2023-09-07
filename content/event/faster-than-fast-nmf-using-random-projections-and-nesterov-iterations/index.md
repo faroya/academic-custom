@@ -17,7 +17,7 @@ publishDate: 2018-07-10T22:45:27.880Z
 draft: false
 featured: false
 image:
-  filename: featured.jpg
+  filename: cirm.jpeg
   focal_point: Right
   preview_only: false
 ---
