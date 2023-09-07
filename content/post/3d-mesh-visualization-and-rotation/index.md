@@ -2,7 +2,7 @@
 title: 3D Mesh Visualization and Rotation
 date: 2023-09-07T21:01:57.306Z
 draft: false
-featured: false
+featured: true
 image:
   filename: frame_000.png
   focal_point: Smart
