@@ -18,6 +18,6 @@ draft: false
 featured: false
 image:
   filename: itwist_2018.jpg
-  focal_point: Smart
-  preview_only: true
+  focal_point: Right
+  preview_only: false
 ---
