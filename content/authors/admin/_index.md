@@ -41,10 +41,11 @@ highlight_name: true
 title: Farouk Yahaya, PhD
 email: ""
 ---
-Dr. Farouk Yahaya’s research interests include matrix factorization, glottal inverse filtering, source separation, low-rank approximations, and sensor calibration.
+ Dr. Farouk Yahaya’s research interests include matrix factorization, glottal inverse filtering, source separation, low-rank approximations, and sensor calibration.
 
-He received both his B.Sc. and M.Sc. degrees, in Communications and Network Security and Information Science respectively in 2010 and 2014 from the University of Information Science & Technology, Ohrid North Macedonia. He later obtained his Phd in Signal Processing from the Université du Littoral Côte d’Opale, Calais, France in September 2021.
+He received both his B.Sc. and M.Sc. degrees, in Communications and Network Security and Information Science respectively in 2010 and 2014 from the [University for Information Science and Technology "St. Paul the Apostle](http://uist.edu.mk/). He later obtained his Phd in Signal Processing from the [Université du Littoral Côte d’Opale](https://www.univ-littoral.fr/), Calais, France in September 2021.
 
-He is currently affiliated with the University of Bordeaux as a postdoctoral research associate, where he conducts his research at the Research Center INRIA Bordeaux - South West.
+He is currently affiliated with the University of Bordeaux as a postdoctoral research associate, where he conducts his research at the [Research Center INRIA Bordeaux - South West](https://www.inria.fr/fr/centre-inria-universite-bordeaux).
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+
+ 
