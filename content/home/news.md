@@ -6,6 +6,6 @@ weight: 80
 title: News
 subtitle: null
 design:
-  columns: "1"
+  columns: "2"
 ---
 No news yet. Come back later.
