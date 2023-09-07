@@ -9,7 +9,7 @@ summary: This project uses the Open3D library to visualize and manipulate 3D
 draft: false
 featured: false
 image:
-  filename: frame_000.png
+  filename: rab.png
   focal_point: ""
   preview_only: false
 ---
