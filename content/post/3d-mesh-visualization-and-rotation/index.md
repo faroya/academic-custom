@@ -1,6 +1,11 @@
 ---
 title: 3D Mesh Visualization and Rotation
 date: 2023-09-07T21:01:57.306Z
+summary: This project uses the Open3D library to visualize and manipulate 3D
+  mesh data. A 3D mesh is loaded and rotated to create a 360-degree animation
+  over 10 frames. Each frame is captured as an image and saved in a compatible
+  format, facilitating the detailed analysis or presentation of 3D models from
+  various angles.
 draft: false
 featured: true
 image:
