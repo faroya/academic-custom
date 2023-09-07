@@ -17,7 +17,7 @@ publishDate: 2018-07-10T22:45:27.880Z
 draft: false
 featured: false
 image:
-  filename: itwist_2018.jpg
+  filename: featured.jpg
   focal_point: Right
   preview_only: false
 ---
