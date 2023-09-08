@@ -8,5 +8,6 @@ author: admin
 widget_id: vv
 design:
   background:
-    color: "#c23636"
+    color: ""
+    text_color_light: true
 ---
