@@ -10,5 +10,5 @@ design:
   background:
     color: ""
     text_color_light: false
-    image: icon.png
+    image: ""
 ---
