@@ -11,7 +11,7 @@ social:
     icon_pack: fas
     link: contact/
     display:
-      header: true
+      header: false
   - icon: graduation-cap
     icon_pack: fas
     link: https://scholar.google.com/citations?user=p8zrh5gAAAAJ&hl=en
