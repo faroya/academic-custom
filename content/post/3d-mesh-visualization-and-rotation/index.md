@@ -10,7 +10,7 @@ draft: false
 featured: false
 image:
   filename: content/post/3d-mesh-visualization-and-rotation/maxresdefault.jpg
-  focal_point: Right
+  focal_point: " "
   preview_only: false
 ---
  
