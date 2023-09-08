@@ -8,6 +8,8 @@ summary: This project uses the Open3D library to visualize and manipulate 3D
   various angles.
 draft: false
 featured: false
+authors:
+  - admin
 image:
   filename: content/post/3d-mesh-visualization-and-rotation/maxresdefault.jpg
   focal_point: " "
