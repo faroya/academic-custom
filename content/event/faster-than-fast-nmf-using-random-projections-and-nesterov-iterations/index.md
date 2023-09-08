@@ -13,7 +13,7 @@ all_day: false
 links: []
 event: " iTWIST'18"
 event_url: https://sites.google.com/view/itwist18/workshop?authuser=0
-publishDate: 2018-07-10T22:45:27.880Z
+publishDate: 2018-11-20T23:45:27.880Z
 draft: false
 featured: false
 image:
