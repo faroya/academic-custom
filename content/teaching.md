@@ -13,21 +13,21 @@ share: false
 
 **2021 --- 2022**
 
-> ***Semester 1***
+ ***Semester 1***
+ 
+> **Advanced Algorithms**    *3 ECTS*  
+> Computational thinking, modeling, reformulation, complexity, reduction, NP-completeness, dynamic programming, divide and conquer, greedy algorithm, branch and bound, and flow algorithms
 
-**Advanced Algorithms**    *3 ECTS*  
-*Computational thinking, modeling, reformulation, complexity, reduction, NP-completeness, dynamic programming, divide and conquer, greedy algorithm, branch and bound, and flow algorithms* 
+> **Synthesis Project**   *2 ECTS*
+> *Project related to the research themes of LISIC: bibliographic synthesis, study of solutions, and writing a research article* 
 
-**Synthesis Project**   *2 ECTS*
-*Project related to the research themes of LISIC: bibliographic synthesis, study of solutions, and writing a research article* 
+> **Algorithms 1**  *3 ECTS*
+> *Basic concepts (variable, function, conditional, iteration, and array) and Python*
 
-**Algorithms 1**  *3 ECTS*
-*Basic concepts (variable, function, conditional, iteration, and array) and Python*
+> **Web 1**. *3 ECTS*
+> *Architecture of a web page, foundational language (HTML) and stylesheet language (CSS)*
 
-**Web 1**. *3 ECTS*
-*Architecture of a web page, foundational language (HTML) and stylesheet language (CSS)*
-
-> ***Semester 2***
+ ***Semester 2***
 
 **Algorithms 2 *( C++ )*** 
 
@@ -41,3 +41,5 @@ share: false
 
 **Digital Tools *( DU Tremplin )***
 *To prevent mid-course dropouts, the university offers a module where students are taught essential digital skills including text processing, slide creation, and Excel usage, preparing them for pix.fr certification exams.*
+
+
