@@ -11,7 +11,7 @@ featured: false
 authors:
   - admin
 image:
-  filename: content/post/3d-mesh-visualization-and-rotation/maxresdefault.jpg
+  filename: featured.jpg
   focal_point: " "
   preview_only: false
 ---
