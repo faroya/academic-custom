@@ -39,3 +39,26 @@ share: false
 
 > **Digital Tools (DU Tremplin)**  *3 ECTS*.   
 > To prevent mid-course dropouts, the university offers a module where students are taught essential digital skills including text processing, slide creation, and Excel usage, preparing them for pix.fr certification exams.
+
+
+
+
+ **2020 --- 2021**
+
+ 
+
+>  **Machine Learning**        
+> Supervised (KNN, decision trees,
+> perceptron, NN, Bayes), unsupervised (K-Means), reinforcement learning
+> (bandit algorithm, Q-learning), Python (scikit-learn) & C++
+> applications.
+> 
+***Others***
+> 
+> **Multidimensional Data Analysis (EIL)**
+> 
+> **Big Data & Sensor Calibration (EIL)**
+> 
+> **Data Analysis in Excel (IUT)**
+> 
+> **Semester Projects (EIL, IUT)**
