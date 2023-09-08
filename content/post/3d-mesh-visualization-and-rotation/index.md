@@ -9,7 +9,7 @@ summary: This project uses the Open3D library to visualize and manipulate 3D
 draft: false
 featured: false
 image:
-  filename: ""
+  filename: content/post/3d-mesh-visualization-and-rotation/maxresdefault.jpg
   focal_point: Right
   preview_only: false
 ---
