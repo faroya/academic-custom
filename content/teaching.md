@@ -1,36 +1,43 @@
 ---
-title: Teaching
-date: 2022-02-20T00:00:00+01:00
 draft: false
-share: false
-commentable: false
 editable: false
+summary: ""
 header:
   caption: ""
   image: ""
+title: Teaching
+date: 2022-02-20T00:00:00+01:00
+commentable: false
+share: false
 ---
-### **2021-2022**
 
-DPT INFO ET SIGNAL/LISIC, Littoral Côte d'Opale, Calais  ( taught in French )
+**2021 --- 2022**
 
-*License 1 ( Year 1 Undergraduate )* 
+> ***Semester 1***
 
-* Databases  
-* Python 
-*  C++ 
+**Advanced Algorithms**    *3 ECTS*  
+*Computational thinking, modeling, reformulation, complexity, reduction, NP-completeness, dynamic programming, divide and conquer, greedy algorithm, branch and bound, and flow algorithms* 
 
-*License 3 - Year 3 Undergraduate ( Tremplin et STAPS )*
+**Synthesis Project**   *2 ECTS*
+*Project related to the research themes of LISIC: bibliographic synthesis, study of solutions, and writing a research article* 
 
-* Web development ( Wordpress, HTML, CSS)
-* Data analysis with Excel
+**Algorithms 1**  *3 ECTS*
+*Basic concepts (variable, function, conditional, iteration, and array) and Python*
 
+**Web 1**. *3 ECTS*
+*Architecture of a web page, foundational language (HTML) and stylesheet language (CSS)*
 
+> ***Semester 2***
 
-### **2019-2020**
+**Algorithms 2 *( C++ )*** 
 
-DPT INFO ET SIGNAL/LISIC, Littoral Côte d'Opale, Calais
+*variable, arrays, functions (printf, scanf, ..), control structures (conditional, loops), functions (passing parameters by value), Pointers, definition, functions: passing parameters by reference and tables: static/dynamic*
 
-*Master 1  ( Year 1 Master )* 
+**Algorithms 3 *( Advanced C++ )***  
+*recursion, N-dimensional arrays, stacks, files (concepts, methods), linked lists, and finally a project.*
 
-* Big Data and Sensor Calibration
-* Machine Learning and Data Analysis
+**Database 1** *Taught with A. Ahmad (ULCO/LISIC)* 
+*Information System Modeling, UML formalism, Conceptual Data Model (CDM), Relational Data Logical Model (RDLM), Transition rules from CDM to RDLM (Functional dependencies, normal forms 1NF, 2NF, 3NF, BCNF)*
+
+**Digital Tools *( DU Tremplin )***
+*To prevent mid-course dropouts, the university offers a module where students are taught essential digital skills including text processing, slide creation, and Excel usage, preparing them for pix.fr certification exams.*
