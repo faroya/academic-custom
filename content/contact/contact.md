@@ -27,23 +27,22 @@ content:
   # Contact details (edit or remove options as required)
 
   email: faroya2011@gmail.com
-  phone: +33-(0)-66 5 69 69 19
+  phone: +33 6 65 69 69 19
   address:
-    street: 50 rue Ferdinand Buisson, B.P. 719
-    city: Calais Cedex
+    street: Centre Inria de l'université de Bordeaux
+    city: Bordeaux  
     region: 
-    postcode: '62228'
+    postcode: '33300'
     country: France
     country_code: FR
   # coordinates:
   #   latitude: '37.4275'
   #   longitude: '-122.1697'
-  directions: Laboratoire d’Informatique Signal et Image de la Côte d’Opale (LISIC)<br/>
-   Université du Littoral Côte d'Opale (ULCO)<br/> 
-   Maison de la Recherche Blaise Pascal
-  # office_hours:
-  #   - 'Monday 10:00 to 13:00'
-  #   - 'Wednesday 09:00 to 10:00'
+  directions: Centre Inria de l'université de Bordeaux <br/>
+  200 Av. de la Vieille Tour, 33405 Talence
+   office_hours:
+     - 'Monday to Friday 10:00 to 17:00'
+   #  - 'Wednesday 09:00 to 10:00'
   # appointment_url: 'https://calendly.com'
   # contact_links:
   #   - icon: twitter
