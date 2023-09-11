@@ -38,11 +38,11 @@ content:
   # coordinates:
   #   latitude: '37.4275'
   #   longitude: '-122.1697'
-  directions: Centre Inria de l'université de Bordeaux <br/>
-  200 Av. de la Vieille Tour, 33405 Talence
-   office_hours:
-     - 'Monday to Friday 10:00 to 17:00'
-   #  - 'Wednesday 09:00 to 10:00'
+  #directions: Centre Inria de l'université de Bordeaux <br/>
+  #200 Av. de la Vieille Tour, 33405 Talence
+  # office_hours:
+  #   - 'Monday to Friday 10:00 to 17:00'
+  #  - 'Wednesday 09:00 to 10:00'
   # appointment_url: 'https://calendly.com'
   # contact_links:
   #   - icon: twitter
