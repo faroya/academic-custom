@@ -1,21 +1,20 @@
 ---
 title: "Make a simple game using Pygame "
 date: 2023-09-13T07:31:48.771Z
-summary: This project is a simple Python game where a player controls a rabbit
+summary: "This project is a simple Python game where a player controls a rabbit
   to catch falling carrots, with the score increasing for each catch. Developed
   using the Pygame library, it features basic graphics, sound effects, and
   utilizes collision detection for gameplay mechanics. The game runs
-  continuously until the player opts to close the window.
+  continuously until the player opts to close the window. "
 draft: false
 featured: false
 image:
-  filename: featured
+  filename: template.png
   focal_point: Smart
   preview_only: false
 ---
 # Rabbit Pygame Project
-
-In this project, I have implemented a simple game using the Pygame library where a rabbit tries to catch falling carrots. Each time a carrot is caught, the score increases. Here are the details of the project.
+This is a basic game I developed as a teaching tool during a tutorial session with my students. The goal is to inspire them to create more advanced and intricate game projects in Python for their end-of-semester assignments.
 
 ## Dependencies
 
