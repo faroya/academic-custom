@@ -9,7 +9,7 @@ summary: "This project is a simple Python game where a player controls a rabbit
 draft: false
 featured: false
 image:
-  filename: template.png
+  filename: featured.png
   focal_point: Smart
   preview_only: false
 ---
