@@ -14,7 +14,8 @@ image:
   preview_only: false
 ---
 # Rabbit Pygame Project
-This is a basic game I developed as a teaching tool during a tutorial session with my students. The goal is to inspire them to create more advanced and intricate game projects in Python for their end-of-semester assignments.
+This is a basic game I developed as a teaching tool during a tutorial session with my students. The goal is to inspire them to create more advanced and intricate game projects in Python for their end-of-semester assignments. See the code on [CarrotQuest Repository](https://github.com/faroya/CarrotQuest.git)
+
 
 ## Dependencies
 
